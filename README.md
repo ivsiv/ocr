@@ -4,7 +4,7 @@ This project uses EasyOCR and NLP models to extract text from images and detect 
 
 ## Requirements
 
-- Python 3.7+
+- Python 3.12
 - [EasyOCR](https://github.com/JaidedAI/EasyOCR)
 - OpenCV
 - pandas
